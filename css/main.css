@@ -46,5 +46,18 @@ video {
 // base rules
 // ==================================== */
 
+header {
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+header nav {
+  margin: 20px;
+  text-align: center;
+}
+
+header nav a {
+  margin: 0 5px;
+}
+
 font-family: 'Libre Franklin', sans-serif;
 font-family: 'Sorts Mill Goudy', serif;
