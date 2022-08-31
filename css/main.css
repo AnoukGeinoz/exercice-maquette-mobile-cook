@@ -126,3 +126,20 @@ section {
 article a {
   text-decoration: none;
 }
+
+footer {
+  background-color: black;
+  color: whitesmoke;
+  font-family: 'Libre Franklin', sans-serif;
+  padding: 20px;
+}
+
+h4 {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 20px;
+}
+
+footer a {
+  display: flex;
+  flex-direction: column;
+}
